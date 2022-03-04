@@ -1,1 +1,2 @@
-# csc340
+# csc340 Tic
+All my assignments
